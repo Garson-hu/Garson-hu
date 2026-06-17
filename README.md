@@ -1,7 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Storage (PM and CXL memory)
-- 📫 Personal Webpage: https://www.guangxinghu.com
+I am a Ph.D. student in Computer Science at North Carolina State University. My research focuses on computer systems, emerging memory technologies, and high-performance computing.
+
+- 🔭 I’m currently working on persistent memory, CXL memory systems, and data caching for HPC and AI workloads.
+- 🔬 My research interests include memory and storage systems, distributed systems, parallel I/O, and AI infrastructure.
+- 💻 I primarily work with C/C++, Python, Bash, Linux, MPI, Slurm, and GPU computing platforms.
+- 🤝 I’m interested in collaborating on CXL, HPC, distributed training, checkpointing, caching, and storage systems.
+- 📫 Personal Webpage: [https://www.guangxinghu.com](https://www.guangxinghu.com)
+- 📧 Email: [ghu4@ncsu.edu](mailto:ghu4@ncsu.edu)
 <!--
 **Garson-hu/Garson-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
